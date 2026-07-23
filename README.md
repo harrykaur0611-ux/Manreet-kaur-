@@ -1,2 +1,2 @@
-# Manreet-kaur-
-Web and App development
+#manreetkaur
+this is my first git repositiory.
